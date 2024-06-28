@@ -69,7 +69,7 @@ Contributions are welcome! To contribute:
 5. Create a pull request detailing your changes.
 
 ## Contact
-For any questions or issues, please contact [shenal.unc555@gmail.com](mailto:shenal.unc555@gmail.com) or - [Contact@shenal.com](http://shenalsenarathne.me/#contact)
+For any questions or issues, please contact [shenal.unc555@gmail.com](mailto:shenal.unc555@gmail.com) or [Contact@shenal.com](http://shenalsenarathne.me/#contact)
 
 Enjoy the game!
 
