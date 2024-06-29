@@ -11,7 +11,7 @@ Welcome to the Spaceship Adventure Game! Navigate your spaceship to collect star
 ## Installation
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/spaceship-adventure-game.git
+    git clone https://github.com/ShenalSen/Spaceship-Game---byCodingcat.git
     cd spaceship-adventure-game
     ```
 
