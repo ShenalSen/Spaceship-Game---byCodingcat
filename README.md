@@ -45,6 +45,13 @@ Welcome to the Spaceship Adventure Game! Navigate your spaceship to collect star
     - Use the **Right Arrow** key to move the spaceship right.
 3. **Collect Stars**: Each star you collect adds 10 points to your score.
 4. **Avoid Asteroids**: The game ends if your spaceship collides with an asteroid.
+   
+<table>
+  <tr>
+    <td><img src="https://github.com/ShenalSen/Spaceship-Game---byCodingcat/blob/main/Screenshots/1.png" alt="Screenshot 1" width="500"></td>
+    <td><img src="https://github.com/ShenalSen/Spaceship-Game---byCodingcat/blob/main/Screenshots/2.png" alt="Screenshot 2" width="500"></td>
+  </tr>
+</table>
 
 ## Code Overview
 - **main.py**: Contains the entire game logic and UI setup using `tkinter` and `Pillow` for image handling.
